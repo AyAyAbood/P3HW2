@@ -272,7 +272,7 @@ public class P3HW2 extends Application {
                 Button exitButton = new Button("Exit");
                 Button AddS = new Button("Add Student");
                 Button ViewS = new Button("View Student");
-                File ff1 = new File("D:\\uni\\Sem4\\Programming (3)\\HW\\hw2\\users.txt");
+                File ff1 = new File("users.txt");
                 String user[] = new String[3];
                 String users[][] = new String[3][2];
                 Scanner scanner2 = null;
